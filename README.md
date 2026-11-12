@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=200&section=header&text=Marcella%20Oliveira&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UX%2FUI%20Designer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
-
+ 
 <!-- Frase digitando -->
 <p align="center">
   <a href="https://git.io/typing-svg">
