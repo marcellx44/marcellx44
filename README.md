@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
--  Estudante de **Sistemas de Informação (6° semestre)** no **CEFET-RJ**
+-  Estudante de **Sistemas de Informação (6° semestre)** na **UFCI-RJ**
 -  Desenvolvedora **Full Stack & UX/UI Designer**
 
 ---
