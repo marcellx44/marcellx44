@@ -15,7 +15,7 @@
 ## Sobre mim
 
 -  Estudante de **Sistemas de Informação (6° semestre)** na **UFCI-RJ**
--  Desenvolvedora **Full Stack & UX/UI Designer**
+-  Estagiágia de **Desenvolvimento do Software** na Italtel Brasil
 
 ---
 
